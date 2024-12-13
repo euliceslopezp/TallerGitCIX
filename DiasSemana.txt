@@ -1,3 +1,7 @@
 Lunes
 Martes
 Miercoles
+jueves 
+viernes
+sabado
+domingo
