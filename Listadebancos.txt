@@ -1,2 +1,6 @@
-bcp 
-interbank
+BCP
+Interbank
+Scotiabank
+BVBA
+Banco falabella
+mibanco
